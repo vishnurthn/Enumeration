@@ -1,9 +1,9 @@
 # Enumeration
 Enumeration Techniques
 
-DEVELOPED BY : KAILASH PRABHU S
+DEVELOPED BY : VISHNU RATHAN B
 
-REG NO: 212224240068
+REG NO: 212224240185
 
 
 # Explore Google hacking and enumeration 
